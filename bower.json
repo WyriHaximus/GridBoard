@@ -1,0 +1,14 @@
+
+{
+    "name": "grid-board",
+    "version": "0.1.0-DEV",
+    "ignore": [
+        "**/*"
+    ],
+    "dependencies": {
+        "jquery": "1.10.*",
+        "gridster": "v0.2.1",
+        "handlebars": "v1.3.0",
+        "backbone": "1.1.*"
+    }
+}
